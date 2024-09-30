@@ -1,3 +1,5 @@
+Well, this repo just help me remember some serious bash commands to help me script my way through.
+
 Complete all these 10 tasks into a single shell script
 
 Ask the user for their name and age, and output a message with their name and the year they were born.
@@ -23,3 +25,5 @@ The script must accept a month number as a command line argument.
 If a month number is not provided as command line argument, the script must exit with the message No month number given.
 
 The script must not accept a value other than 1 to 12. If not the script must exit with the error Invalid month number given.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Next is iterating using the for loop and an output file.
